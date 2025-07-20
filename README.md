@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there, I'm Aarjan Khatiwada 👋
+Welcome to my GitHub!
+I'm a incoming freshman at Southern Utah University, passionate about full-stack development and AI.
 
-<!--
-**slothaarjan/slothaarjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me
+🔭 I’m currently working on my personal portfolio site
 
-Here are some ideas to get you started:
+🌱 I’m learning: javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about: nothing for now
+
+📫 How to reach me:I am active on my instagram: sloth_aarjan
+
+⚡ Fun fact: I can run a sub 25 5k but am trying to reach sub 20
+
+🚀 My Tech Stack
+Languages	Frameworks/Libraries	Tools & Platforms
+Python, JavaScript, Git, Linux
+
+🌐 Connect with Me
+LinkedIn:https://www.linkedin.com/in/slothaarjan/
