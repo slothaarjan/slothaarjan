@@ -18,4 +18,5 @@ Languages	Frameworks/Libraries	Tools & Platforms
 Python, JavaScript, Git, Linux
 
 🌐 Connect with Me
+
 LinkedIn:https://www.linkedin.com/in/slothaarjan/
