@@ -1,6 +1,6 @@
 Hi there, I'm Aarjan Khatiwada 👋
 Welcome to my GitHub!
-I'm a incoming freshman at Southern Utah University, passionate about full-stack development and AI.
+I'm an incoming freshman at Southern Utah University, passionate about full-stack development and AI.
 
 💫 About Me
 🔭 I’m currently working on my personal portfolio site
